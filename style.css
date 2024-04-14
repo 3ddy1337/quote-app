@@ -1,0 +1,38 @@
+html {
+  margin: 0 auto;
+  font-family: monospace;
+  min-width: 375px;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+header {
+  background-color: rgba(191, 230, 255, 0.526);
+}
+
+h1 {
+  margin-top: 0rem;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  padding-left: 1rem;
+}
+
+button {
+  white-space: nowrap;
+  position: absolute;
+  top: 25px;
+  left: 175px;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  font-weight: bold;
+  background-color: rgb(191, 231, 255);
+}
+
+main {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  max-width: 80ch;
+}
